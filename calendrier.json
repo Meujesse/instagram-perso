@@ -169,7 +169,12 @@
   "video_url": "https://meujesse.github.io/instagram/medias/MD25/video.mp4",
   "cover_url": "https://meujesse.github.io/instagram/medias/MD25/cover.jpg",
   "date": "2026-11-28",
-  "date_meujesse": "2027-02-17"
+  "date_meujesse": "2027-02-17",
+  "publie": {
+   "le": "2026-11-28T17:30:53.844Z",
+   "media_id": "17951815782360247",
+   "lien": "https://www.instagram.com/reel/DgSy5ECCFKZ/"
+  }
  },
  {
   "id": "MD26",
